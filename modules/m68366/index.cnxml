@@ -1,0 +1,17 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+    <title>Introduction to Electrical Circuits</title>
+    <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68366</md:content-id>
+  <md:title>Introduction to Electrical Circuits</md:title>
+  <md:abstract/>
+  <md:uuid>26a8ae5c-31c4-4ba5-846c-007835fb3b6d</md:uuid>
+</metadata>
+
+<content>
+
+        <figure id="import-auto-id3255910" class="splash"><media id="import-auto-id2626526" alt="A large volume of water gushes out of the gates of a dam at a hydroelectric facility.">
+                <image mime-type="image/jpg" src="../../media/renewable.jpg"/>
+            </media>
+            
+        <caption>Electric energy can be transmitted to users through solar panels or wind turbines, by the movement of charge—that is, by electric current.</caption></figure><para id="import-auto-id1579542">The flicker of numbers on a handheld calculator, nerve impulses carrying signals of vision to the brain, an ultrasound device sending a signal to a computer screen, the brain sending a message for a baby to twitch its toes, an electric train pulling its load over a mountain pass, a hydroelectric plant sending energy to metropolitan and rural users—these and many other examples of electricity involve <emphasis effect="italics">electric current, the movement of charge</emphasis>. Humankind has indeed harnessed electricity, the basis of technology, to improve our quality of life.</para><para id="eip-743">Electricity fundamentally comes from the electron charge and the ability of that charge to move through conductors and resistors in circuits in order to transfer energy and do valuable work. But, where does the charge come from and how does it move through a conductor? Furthermore, how can circuit theory help us to harness, use, design and build electrical circuits that utilise that energy to do work? </para><para id="eip-911">In this chapter we will be examining some aspects of electrical circuits with reference to current, potential difference, energy flow, resistance, circuit analysis and design.</para></content>
+</document>

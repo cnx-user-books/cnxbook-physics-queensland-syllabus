@@ -1,0 +1,128 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0">
+  <title>Image Formation by Mirrors</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m69943</md:content-id>
+  <md:title>Image Formation by Mirrors</md:title>
+  <md:abstract><list>
+<item>Illustrate image formation in a flat mirror.</item>
+<item>Explain with ray diagrams the formation of an image using spherical mirrors.</item>
+<item>Determine focal length and magnification given radius of curvature, distance of object and image.</item>
+</list></md:abstract>
+  <md:uuid>10954a00-1c14-427f-9fc2-13727315a965</md:uuid>
+</metadata>
+
+<content><para id="import-auto-id1558786">We only have to look as far as the nearest bathroom to find an example of an image formed by a mirror. Images in flat mirrors are the same size as the object and are located behind the mirror. Like lenses, mirrors can form a variety of images. For example, dental mirrors may produce a magnified image, just as makeup mirrors do. Security mirrors in shops, on the other hand, form images that are smaller than the object. We will use the law of reflection to understand how mirrors form images, and we will find that mirror images are analogous to those formed by lenses.</para>
+    <para id="import-auto-id2965963"><link target-id="import-auto-id1578716"/> helps illustrate how a flat mirror forms an image. Two rays are shown emerging from the same point, striking the mirror, and being reflected into the observer’s eye. The rays can diverge slightly, and both still get into the eye. If the rays are extrapolated backward, they seem to originate from a common point behind the mirror, locating the image. (The paths of the reflected rays into the eye are the same as if they had come directly from that point behind the mirror.) Using the law of reflection—the angle of reflection equals the angle of incidence—we can see that the image and object are the same distance from the mirror. This is a virtual image, since it cannot be projected—the rays only appear to originate from a common point behind the mirror. Obviously, if you walk behind the mirror, you cannot see the image, since the rays do not go there. But in front of the mirror, the rays behave exactly as if they had come from behind the mirror, so that is where the image is situated.</para>
+    
+    <figure id="import-auto-id1578716"><media id="import-auto-id3361631" alt="A bottle at a distance d sub o from a flat mirror. An observer’s eye looks into the mirror and finds the image at d sub I behind the mirror. The incident rays fall onto the mirror and get reflected to the eye. The dotted lines represent reflected rays extrapolated backward and produce an image of the same size.">
+        <image mime-type="image/jpg" src="../../media/Figure 26_07_01.jpg" width="450"/>
+      </media>
+      
+    <caption>Two sets of rays from common points on an object are reflected by a flat mirror into the eye of an observer. The reflected rays seem to originate from behind the mirror, locating the virtual image.</caption></figure><para id="import-auto-id2834836">Now let us consider the focal length of a mirror—for example, the concave spherical mirrors in <link target-id="import-auto-id2836806"/>. Rays of light that strike the surface follow the law of reflection. For a mirror that is large compared with its radius of curvature, as in <link target-id="import-auto-id2836806"/>(a), we see that the reflected rays do not cross at the same point, and the mirror does not have a well-defined focal point. If the mirror had the shape of a parabola, the rays would all cross at a single point, and the mirror would have a well-defined focal point. But parabolic mirrors are much more expensive to make than spherical mirrors. The solution is to use a mirror that is small compared with its radius of curvature, as shown in <link target-id="import-auto-id2836806"/>(b). (This is the mirror equivalent of the thin lens approximation.) To a very good approximation, this mirror has a well-defined focal point at F that is the focal distance <m:math><m:semantics><m:mrow><m:mrow><m:mi>f</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f} {}</m:annotation></m:semantics></m:math> from the center of the mirror. The focal length <m:math><m:semantics><m:mrow><m:mrow><m:mi>f</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f} {}</m:annotation></m:semantics></m:math> of a concave mirror is positive, since it is a converging mirror.</para><figure id="import-auto-id2836806"><media id="import-auto-id2602795" alt="Figure (a) shows a large concave spherical mirror. A beam of parallel rays is incident on the mirror; after reflection it converges at F. Figure (b) shows a concave mirror that is small when compared to its radius of curvature. A beam of parallel rays is incident on the mirror; after reflection it converges at F on the same side. The middle rays of the parallel beam are 1,2, and 3. The distance of F on ray 2 from the center of the mirror is its focal length small f.">
+        <image mime-type="image/jpg" src="../../media/Figure 26_07_02.jpg" width="450"/>
+      </media>
+      
+    <caption>(a) Parallel rays reflected from a large spherical mirror do not all cross at a common point. (b) If a spherical mirror is small compared with its radius of curvature, parallel rays are focused to a common point. The distance of the focal point from the center of the mirror is its focal length <m:math><m:semantics><m:mrow><m:mrow><m:mi>f</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f} {}</m:annotation></m:semantics></m:math>. Since this mirror is converging, it has a positive focal length.  
+      </caption></figure><para id="import-auto-id1357119">The convex mirror shown in <link target-id="import-auto-id2836807"/> also has a focal point. Parallel rays of light reflected from the mirror seem to originate from the point F at the focal distance <m:math><m:semantics><m:mrow><m:mrow><m:mi>f</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f} {}</m:annotation></m:semantics></m:math> behind the mirror. The focal length and power of a convex mirror are negative, since it is a diverging mirror.</para>
+    
+    <figure id="import-auto-id2836807"><media id="import-auto-id2602794" alt="A convex spherical mirror. A beam of parallel rays incident on the mirror, after reflection, appear to come from F on ray 2 behind the mirror. Here the distance of">
+        <image mime-type="image/jpg" src="../../media/Figure 26_07_03.jpg" width="250"/>
+      </media>
+      
+    <caption>Parallel rays of light reflected from a convex spherical mirror (small in size compared with its radius of curvature) seem to originate from a well-defined focal point at the focal distance <m:math><m:semantics><m:mrow><m:mrow><m:mi>f</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f} {}</m:annotation></m:semantics></m:math> behind the mirror. Convex mirrors diverge light rays and, thus, have a negative focal length.  
+      </caption></figure><para id="import-auto-id1610627">Ray tracing is as useful for mirrors as for lenses. The rules for ray tracing for mirrors are based on the illustrations just discussed:</para>
+    <list id="fs-id3169433" list-type="enumerated" number-style="arabic"><item id="import-auto-id2957580">A ray approaching a concave converging mirror parallel to its axis is reflected through the focal point F of the mirror on the same side. (See rays 1 and 3 in <link target-id="import-auto-id2836806"/>(b).)</item>
+    <item id="import-auto-id2635162">A ray approaching a convex diverging mirror parallel to its axis is reflected so that it seems to come from the focal point F behind the mirror. (See rays 1 and 3 in <link target-id="import-auto-id2836807"/>.)</item>
+    <item id="import-auto-id2600268">Any ray striking the center of a mirror is followed by applying the law of reflection; it makes the same angle with the axis when leaving as when approaching. (See ray 2 in <link target-id="import-auto-id3163149"/>.)</item>
+    <item id="import-auto-id2586567">A ray approaching a concave converging mirror through its focal point is reflected parallel to its axis. (The reverse of rays 1 and 3 in <link target-id="import-auto-id2836806"/>.)</item>
+    <item id="import-auto-id1516272">A ray approaching a convex diverging mirror by heading toward its focal point on the opposite side is reflected parallel to the axis. (The reverse of rays 1 and 3 in <link target-id="import-auto-id2836807"/>.)</item>
+    </list><para id="import-auto-id2631816">We will use ray tracing to illustrate how images are formed by mirrors, and we can use ray tracing quantitatively to obtain numerical information. But since we assume each mirror is small compared with its radius of curvature, we can use the thin lens equations for mirrors just as we did for lenses.</para><para id="import-auto-id3041498">Consider the situation shown in <link target-id="import-auto-id3163149"/>, concave spherical mirror reflection, in which an object is placed farther from a concave (converging) mirror than its focal length. That is, <m:math><m:semantics><m:mrow><m:mrow><m:mi>f</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f} {}</m:annotation></m:semantics></m:math> is positive and <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>d</m:mi><m:mrow><m:mtext>o</m:mtext></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math> &gt; <m:math><m:semantics><m:mrow><m:mrow><m:mi>f</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f} {}</m:annotation></m:semantics></m:math>, so that we may expect an image similar to the case 1 real image formed by a converging lens. Ray tracing in <link target-id="import-auto-id3163149"/> shows that the rays from a common point on the object all cross at a point on the same side of the mirror as the object. Thus a real image can be projected onto a screen placed at this location. The image distance is positive, and the image is inverted, so its magnification is negative. This is a <emphasis effect="italics">case 1 image for mirrors</emphasis>. It differs from the case 1 image for lenses only in that the image is on the same side of the mirror as the object. It is otherwise identical.</para><figure id="import-auto-id3163149"><media id="import-auto-id1362729" alt="Three incident rays, 1, 2, and 3, falling on a concave mirror. Ray 1 falls parallel, ray 2 falls making an angle with the axis and ray 3 passes through focal point F. These rays after reflection converge at a point below the axis. The image is inverted and enlarged and falls below the axis on the same side as the object. Here, the distance from the center of the mirror to F is the focal distance small f, distances of the object and the image from the mirror are d sub o and d sub I, respectively. The heights of the object and the image are h sub o and h sub I, respectively.">
+        <image mime-type="image/jpg" src="../../media/Figure 26_07_04.jpg" width="250"/>
+      </media>
+      
+    <caption>A case 1 image for a mirror. An object is farther from the converging mirror than its focal length. Rays from a common point on the object are traced using the rules in the text. Ray 1 approaches parallel to the axis, ray 2 strikes the center of the mirror, and ray 3 goes through the focal point on the way toward the mirror. All three rays cross at the same point after being reflected, locating the inverted real image. Although three rays are shown, only two of the three are needed to locate the image and determine its height.</caption></figure><section id="fs-id2757582">
+    <title>Problem-Solving Strategy for Mirrors</title><para id="import-auto-id2807061">Step 1. Examine the situation to determine that image formation by a mirror is involved.</para>
+    <para id="import-auto-id1553115">Step 2. Refer to the <link document="m42470" target-id="fs-id2212849">Problem-Solving Strategies for Lenses</link>. The same strategies are valid for mirrors as for lenses with one qualification—use the ray tracing rules for mirrors listed earlier in this section.</para></section>
+  <section id="fs-id2506528" class="section-summary"><title>Section Summary</title><list id="fs-id2923821"><item id="import-auto-id1956251">The characteristics of an image formed by a flat mirror are: (a) The image and object are the same distance from the mirror, (b) The image is a virtual image, and (c) The image is situated behind the mirror.</item>
+      
+    <item>A convex mirror is a diverging mirror and forms only one type of image, namely a virtual image.</item>
+    </list></section><section id="fs-id1303533" class="conceptual-questions" type="conceptual-questions">
+    <title>Conceptual Questions</title>
+    <exercise id="fs-id1487938" type="conceptual-questions"><problem id="fs-id2915759">
+    <para id="import-auto-id1211759">What are the differences between real and virtual images? How can you tell (by looking) whether an image formed by a single lens or mirror is real or virtual? </para>
+    </problem></exercise>
+    <exercise id="fs-id1502616" type="conceptual-questions"><problem id="fs-id1297152">
+    <para id="import-auto-id1579871">Can you see a virtual image? Can you photograph one? Can one be projected onto a screen with additional lenses or mirrors? Explain your responses. </para>
+    </problem></exercise>
+    <exercise id="fs-id1622392" type="conceptual-questions"><problem id="fs-id1513721">
+    <para id="import-auto-id2608792">Is it necessary to project a real image onto a screen for it to exist? </para>
+    </problem></exercise>
+    <exercise id="fs-id1677882" type="conceptual-questions"><problem id="fs-id2673134">
+    <para id="import-auto-id2803079">At what distance is an image <emphasis effect="italics"><emphasis effect="italics">always</emphasis></emphasis> located—at <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>d</m:mi><m:mrow><m:mtext>o</m:mtext></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d rSub { size 8{o} } } {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>d</m:mi><m:mrow><m:mtext>i</m:mtext></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d rSub { size 8{i} } } {}</m:annotation></m:semantics></m:math>, or <m:math><m:semantics><m:mrow><m:mrow><m:mi>f</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{f} {}</m:annotation></m:semantics></m:math>? </para></problem></exercise>
+    <exercise id="fs-id2785853" type="conceptual-questions"><problem id="fs-id1570401">
+    <para id="import-auto-id1332354">Under what circumstances will an image be located at the focal point of a lens or mirror?</para>
+    </problem></exercise>
+    <exercise id="fs-id1281672" type="conceptual-questions"><problem id="fs-id1270778">
+    <para id="import-auto-id1340518">What is meant by a negative magnification? What is meant by a magnification that is less than 1 in magnitude? </para>
+    </problem></exercise>
+    <exercise id="fs-id1362775" type="conceptual-questions"><problem id="fs-id1247705">
+    <para id="import-auto-id2949482">Can a case 1 image be larger than the object even though its magnification is always negative? Explain. </para>
+    </problem></exercise>
+    <exercise id="fs-id2677030" type="conceptual-questions"><problem id="fs-id2638109">
+    <para id="import-auto-id1611426">If you wish to see your entire body in a flat mirror (from head to toe), how tall should the mirror be? Does its size depend upon your distance away from the mirror? Provide a sketch. </para>
+    </problem></exercise>
+    <exercise id="fs-id3166876" type="conceptual-questions"><problem id="fs-id1516680">
+    <para id="import-auto-id2604771">Why are diverging mirrors often used for rear-view mirrors in vehicles? What is the main disadvantage of using such a mirror compared with a flat one? </para>
+    </problem></exercise>
+  </section>
+  <section id="fs-id3165702" type="problems-exercises" class="problems-exercises">
+    <title>Problems &amp; Exercises</title>
+    <exercise id="fs-id2911311" type="problems-exercises"><problem id="fs-id1677507">
+    <para id="import-auto-id2790873">A shopper standing 3.00 m from a convex security mirror sees his image with a magnification of 0.250. (a) Where is his image? (b) What is the focal length of the mirror? (c) What is its radius of curvature? Explicitly show how you follow the steps in the <link target-id="fs-id2757582">Problem-Solving Strategy for Mirrors</link>.</para></problem></exercise>
+    <exercise id="fs-id1777792" type="problems-exercises"><problem id="fs-id3159863">
+    <para id="import-auto-id2913676">An object 1.50 cm high is held 3.00 cm from a person’s cornea, and its reflected image is measured to be 0.167 cm high. (a) What is the magnification? (b) Where is the image? (c) Find the radius of curvature of the convex mirror formed by the cornea. (Note that this technique is used by optometrists to measure the curvature of the cornea for contact lens fitting. The instrument used is called a keratometer, or curve measurer.)</para>
+    </problem>
+      <solution id="fs-id884178">
+    <para id="import-auto-id949319">(a) +0.111</para>
+    <para id="import-auto-id2749218">(b) -0.334 cm (behind “mirror”)</para>
+    <para id="import-auto-id1175338">(c) 0.752cm</para>
+    </solution></exercise>
+    <exercise id="fs-id2681152" type="problems-exercises"><problem id="fs-id2559448">
+    <para id="import-auto-id3369934">Referring to the electric room heater considered in the first example in this section, calculate the intensity of IR radiation in <m:math><m:semantics><m:mrow><m:mrow><m:msup><m:mtext>W/m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"W/m" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> projected by the concave mirror on a person 3.00 m away. Assume that the heating element radiates 1500 W and has an area of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>100</m:mtext><m:mspace width="0.25em"/><m:msup><m:mtext> cm</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"100"" cm" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, and that half of the radiated power is reflected and focused by the mirror.</para></problem>
+      <solution id="fs-id2608771">
+    <para id="import-auto-id2574345"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mtext>6.82 k</m:mtext>
+                  <m:msup>
+                    <m:mtext> W/m</m:mtext>
+                    
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                      </m:mrow>
+                    
+                  </m:msup>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{6 "." "82"" kW/m" rSup { size 8{2} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </para></solution></exercise>
+    <exercise id="fs-id2987963" type="problems-exercises"><problem id="fs-id3357814">
+    <para id="import-auto-id2018416" fo:font-weight="normal">Consider a 250-W heat lamp fixed to the ceiling in a bathroom. If the filament in one light burns out then the remaining three still work. Construct a problem in which you determine the resistance of each filament in order to obtain a certain intensity projected on the bathroom floor. The ceiling is 3.0 m high. The problem will need to involve concave mirrors behind the filaments. Your instructor may wish to guide you on the level of complexity to consider in the electrical components.</para>
+    </problem></exercise>
+    </section>
+  </content>
+<glossary>
+<definition id="fs-id2887740"><term>converging mirror</term> <meaning id="fs-id2773114">a concave mirror in which light rays that strike it parallel to its axis converge at one or more points along the axis</meaning></definition>
+<definition id="fs-id3264427"><term>diverging mirror</term> <meaning id="fs-id2634821">a convex mirror in which light rays that strike it parallel to its axis bend away (diverge) from its axis</meaning></definition>
+<definition id="fs-id741139"><term>law of reflection</term> <meaning id="fs-id2015247">angle of reflection equals the angle of incidence</meaning></definition>
+
+</glossary>
+</document>

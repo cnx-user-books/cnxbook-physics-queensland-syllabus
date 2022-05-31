@@ -1,0 +1,153 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>The Normal and Tension Forces.</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m69909</md:content-id>
+  <md:title>The Normal and Tension Forces.</md:title>
+  <md:abstract><list>
+<item>Define normal and tension forces.</item>
+<item>Apply Newton's laws of motion to solve problems involving a variety of forces.</item>
+<item>Use trigonometric identities to resolve weight into components.</item>
+</list></md:abstract>
+  <md:uuid>7199620e-6b13-44b8-b1da-e877d4ecc4fa</md:uuid>
+</metadata>
+
+<content>
+  
+    <para id="import-auto-id2095647">Forces are given many names, such as push, pull, thrust, lift, weight, friction, and tension. Traditionally, forces have been grouped into several categories and given names relating to their source, how they are transmitted, or their effects. The most important of these categories are discussed in this section, together with some interesting applications. Further examples of forces are discussed later in this text.</para>
+    
+  <section id="fs-id2422399">
+    <title>Normal Force</title>
+    <para id="import-auto-id2600263"><term id="import-auto-id1910210">Weight</term> (also called force of gravity) is a pervasive force that acts at all times and must be counteracted to keep an object from falling. You definitely notice that you must support the weight of a heavy object by pushing up on it when you hold it stationary, as illustrated in <link target-id="import-auto-id2672874"/>(a). But how do inanimate objects like a table support the weight of a mass placed on them, such as shown in <link target-id="import-auto-id2672874"/>(b)? When the bag of dog food is placed on the table, the table actually sags slightly under the load. This would be noticeable if the load were placed on a card table, but even rigid objects deform when a force is applied to them. Unless the object is deformed beyond its limit, it will exert a restoring force much like a deformed spring (or trampoline or diving board). The greater the deformation, the greater the restoring force. So when the load is placed on the table, the table sags until the restoring force becomes as large as the weight of the load. At this point the net external force on the load is zero. That is the situation when the load is stationary on the table. The table sags quickly, and the sag is slight so we do not notice it. But it is similar to the sagging of a trampoline when you climb onto it.</para><figure id="import-auto-id2672874"><media id="import-auto-id2638663" alt="A person is holding a bag of dog food at some height from a table. He is exerting a force F sub hand, shown by a vector arrow in upward direction, and the weight W of the bag is acting downward, shown by a vector arrow having the same length as vector F sub hand. In a free-body diagram two forces are acting on the red point; one is F sub hand, shown by a vector arrow upward, and another is the weight W, shown by a vector arrow having the same length as vector F sub hand but pointing downward. (b) The bag of dog food is on the table, which deforms due to the weight W, shown by a vector arrow downward; the normal force N is shown by a vector arrow pointing upward having the same length as W. In the free-body diagram, vector W is shown by an arrow downward and vector N is shown by an arrow having the same length as vector W but pointing upward.">
+        <image mime-type="image/jpg" src="../../media/Figure_04_05_01.jpg" width="400"/>
+      </media>
+      
+    <caption>(a) The person holding the bag of dog food must supply an upward force <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mtext mathvariant="bold">F</m:mtext><m:mrow><m:mtext>hand</m:mtext></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{"hand"} } } {}</m:annotation></m:semantics></m:math> equal in magnitude and opposite in direction to the weight of the food <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">w</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{w} {}</m:annotation></m:semantics></m:math>. (b) The card table sags when the dog food is placed on it, much like a stiff trampoline. Elastic restoring forces in the table grow as it sags until they supply a force <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">N</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N} {}</m:annotation></m:semantics></m:math> equal in magnitude and opposite in direction to the weight of the load.</caption></figure><para id="import-auto-id2659946">We must conclude that whatever supports a load, be it animate or not, must supply an upward force equal to the weight of the load, as we assumed in a few of the previous examples. If the force supporting a load is perpendicular to the surface of contact between the load and its support, this force is defined to be a <term id="import-auto-id1254224">normal force</term><emphasis effect="bold"/> and here is given the symbol <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">N</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{N} {}</m:annotation></m:semantics></m:math>. (This is not the unit for force N.) Alternatively we can use the symbol <m:math><m:msub><m:mi>F</m:mi><m:mi>N</m:mi></m:msub></m:math> to represent the Normal force in a free-body diagram. The word <emphasis effect="italics">normal</emphasis><emphasis effect="italics"/> means perpendicular to a surface.</para></section>
+  
+    <section id="fs-id1477607">
+      <title>Tension</title>
+      <para id="import-auto-id1434349">A <term id="import-auto-id1608257">tension</term><emphasis effect="bold"/> is a force along the length of a medium, especially a force carried by a flexible medium, such as a rope or cable. The word “tension<emphasis effect="italics">” </emphasis>comes from a Latin word meaning “to stretch.” Not coincidentally, the flexible cords that carry muscle forces to other parts of the body are called <emphasis effect="italics">tendons</emphasis>. Any flexible connector, such as a string, rope, chain, wire, or cable, can exert pulls only parallel to its length; thus, a force carried by a flexible connector is a tension with direction parallel to the connector. It is important to understand that tension is a pull in a connector. In contrast, consider the phrase: “You can’t push a rope.” The tension force pulls outward along the two ends of a rope. </para>
+      <para id="import-auto-id2684116">Consider a person holding a mass on a rope as shown in <link target-id="import-auto-id2715102"/>. </para>
+     
+      
+      <figure id="import-auto-id2715102"><media id="import-auto-id2673511" alt="An object of mass m is attached to a rope and a person is holding the rope. A weight vector W points downward starting from the lower point of the mass. A tension vector T is shown by an arrow pointing upward initiating from the hook where the mass and rope are joined, and a third vector, also T, is shown by an arrow pointing downward initiating from the hand of the person.">
+          <image mime-type="image/jpg" src="../../media/Figure 04_05_04.jpg" width="200"/>
+        </media>
+        
+      <caption>When a perfectly flexible connector (one requiring no force to bend it) such as this rope transmits a force <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">T</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation></m:semantics></m:math>, that force must be parallel to the length of the rope, as shown. The pull such a flexible connector exerts is a tension. Note that the rope pulls with equal force but in opposite directions on the hand and the supported mass (neglecting the weight of the rope). This is an example of Newton’s third law. The rope is the medium that carries the equal and opposite forces between the two objects. The tension anywhere in the rope between the hand and the mass is equal. Once you have determined the tension in one location, you have determined the tension at all locations along the rope.</caption></figure><para id="import-auto-id2626458">Tension in the rope must equal the weight of the supported mass, as we can prove using Newton’s second law. If the 5.00-kg mass in the figure is stationary, then its acceleration is zero, and thus <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mtext mathvariant="bold">F</m:mtext><m:mrow><m:mtext>net</m:mtext></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{"net"} } =0} {}</m:annotation></m:semantics></m:math>. The only external forces acting on the mass are its weight <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">w</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{w} {}</m:annotation></m:semantics></m:math><emphasis effect="bold"/> and the tension <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">T</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation></m:semantics></m:math> supplied by the rope. Thus,</para><para id="import-auto-id1382277"><equation id="eip-id2555725"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>F</m:mi><m:mrow><m:mtext>net</m:mtext></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">−</m:mo><m:mi>w</m:mi></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F rSub { size 8{"net"} } =T - w=0} {}</m:annotation></m:semantics><m:mo>,</m:mo></m:math></equation></para><para id="import-auto-id1309127">where <m:math><m:semantics><m:mrow><m:mrow><m:mi>T</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation></m:semantics></m:math><emphasis effect="italics"/> and <m:math><m:semantics><m:mrow><m:mrow><m:mi>w</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{w} {}</m:annotation></m:semantics></m:math><emphasis effect="italics"/> are the magnitudes of the tension and weight and their signs indicate direction, with up being positive here. Thus, just as you would expect, the tension equals the weight of the supported mass:</para>
+      <para id="import-auto-id2329940"><equation id="eip-id1640254"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">=</m:mo><m:mi>w</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mg</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T=w= ital "mg"} {}</m:annotation></m:semantics><m:mo>.</m:mo></m:math></equation></para><para id="import-auto-id2684602">For a 5.00-kg mass, then (neglecting the mass of the rope) we see that </para>
+      <para id="import-auto-id1455785"><equation id="eip-id2489897"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mg</m:mtext></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">=</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mtext>5.00 kg</m:mtext><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">(</m:mo><m:mn>9</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>80 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">=</m:mo></m:mrow><m:mtext>49.0 N</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T= ital "mg"= \( 5 "." "00"" kg" \)  \( 9 "." "80 m/s" rSup { size 8{2} }  \) ="49" "." 0" N"} {}</m:annotation></m:semantics><m:mo>.</m:mo></m:math></equation></para><para id="import-auto-id2362688">If we cut the rope and insert a spring, the spring would extend a length corresponding to a force of 49.0 N, providing a direct observation and measure of the tension force in the rope.</para>
+      <para id="import-auto-id2656139">Flexible connectors are often used to transmit forces around corners, such as in a hospital traction system, a finger joint, or a bicycle brake cable. If there is no friction, the tension is transmitted undiminished. Only its direction changes, and it is always parallel to the flexible connector. This is illustrated in <link target-id="import-auto-id1318288"/> (a) and (b).</para><figure id="import-auto-id1318288"><media id="import-auto-id1746413" alt="The internal structure of a finger with tendon, extensor muscle, and flexor muscle is shown. The force in the muscles is shown by arrows pointing along the tendon. In the second figure, part of a bicycle with a brake cable is shown. Three tension vectors are shown by the arrows along the brake cable, starting from the handle to the wheels. The tensions have the same magnitude but different directions.">
+          <image mime-type="image/jpg" src="../../media/Figure_04_05_05.jpg" height="325"/>
+        </media>
+      <caption>(a) Tendons in the finger carry force <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">T</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation></m:semantics></m:math> from the muscles to other parts of the finger, usually changing the force’s direction, but not its magnitude (the tendons are relatively friction free). (b) The brake cable on a bicycle carries the tension <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">T</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation></m:semantics></m:math> from the handlebars to the brake mechanism. Again, the direction but not the magnitude of <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">T</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation></m:semantics></m:math> is changed. </caption></figure></section>
+    
+      <note id="eip-456"><label/><title>PhET Explorations: Forces in 1 Dimension</title>
+<para id="eip-id1925020">Explore the forces at work when you try to push a filing cabinet. Create an applied force and see the resulting friction force and total force acting on the cabinet. Charts show the forces, position, velocity, and acceleration vs. time. View a free-body diagram of all the forces (including gravitational and normal forces).</para>
+
+ <figure id="eip-id1762824"><media id="Phet_module_4.5" alt="">
+
+<image mime-type="image/png" for="online" src="../../media/forces-1d_en.jar" thumbnail="PhET_Icon.png" width="450"/>
+  <image mime-type="image/png" for="pdf" src="../../media/PhET_Icon-0755.png" width="450"/>
+   
+</media>
+
+      <caption><link url="forces-1d_en.jar">Forces in 1 Dimension</link></caption></figure></note><section id="fs-id2352878" class="section-summary"><title>Section Summary</title><list id="fs-id1597329"><item>When objects rest on a surface, the surface applies a force to the object that supports the weight of the object. This supporting force acts perpendicular to and away from the surface. It is called a normal force, <m:math><m:msub><m:mi>F</m:mi><m:mi>N</m:mi></m:msub></m:math>.</item>
+<item>When objects rest on a non-accelerating horizontal surface, the magnitude of the normal force is equal to the weight of the object:
+<para id="eip-id2327043"><equation id="eip-id1331551"><m:math><m:msub><m:mi>F</m:mi><m:mi>N</m:mi></m:msub><m:mo>=</m:mo><m:mi>m</m:mi><m:mi>g</m:mi></m:math></equation></para></item>
+
+
+<item>The pulling force that acts along a stretched flexible connector, such as a rope or cable, is called tension, <m:math><m:semantics><m:mrow><m:mrow><m:mtext mathvariant="bold">T</m:mtext></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T} {}</m:annotation></m:semantics></m:math>. When a rope supports the weight of an object that is at rest, the tension in the rope is equal to the weight of the object:
+      <para id="eip-id1680612"><equation id="eip-id1166246"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mg</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T= ital "mg"} {}</m:annotation></m:semantics><m:mo>.</m:mo></m:math></equation></para></item>
+
+<item>In any inertial frame of reference (one that is not accelerated or rotated), Newton’s laws have the simple forms given in this chapter and all forces are real forces having a physical origin.</item></list></section><section id="fs-id1550370" type="problems-exercises" class="problems-exercises"><title>Problem Exercises</title><exercise id="fs-id2600233" type="problem-exercises"><problem id="fs-id2600234">     
+        <para id="import-auto-id1569366">Two teams of nine members each engage in a tug of war. Each of the first team’s members has an average mass of 68 kg and exerts an average force of 1350 N horizontally. Each of the second team’s members has an average mass of 73 kg and exerts an average force of 1365 N horizontally. (a) What is magnitude of the acceleration of the two teams? (b) What is the tension in the section of rope between the teams?</para></problem>
+<solution id="fs-id2067474">
+      <list id="import-auto-id1572541" mark-prefix="(" mark-suffix=")" list-type="enumerated" number-style="lower-alpha"><item>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>0.</m:mn>
+                      <m:msup>
+                        <m:mtext>11 m/s</m:mtext>
+                        
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{0 "." "11 m/s" rSup { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math> 
+        </item>
+        <item>
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mn>1</m:mn>
+                      <m:mtext>.</m:mtext>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          
+                            <m:mrow>
+                              <m:mn>4</m:mn>
+                            </m:mrow>
+
+                        </m:msup>
+                      </m:mrow>                          <m:mspace width="0.25em"/>
+                      <m:mtext> N</m:mtext>
+                    </m:mrow>
+                  </m:mrow>
+                
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{1 "." 2 times "10" rSup { size 8{4} } " N"} {}</m:annotation>
+            </m:semantics>
+          </m:math> 
+        </item>
+      </list></solution>
+      </exercise>
+        
+      <exercise id="fs-id1600446" type="problem-exercises"><problem id="fs-id2027585">      
+        <para id="import-auto-id1687331">What force does a trampoline have to apply to a 45.0-kg gymnast to accelerate her straight up at <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>50 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "50 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>? Note that the answer is independent of the velocity of the gymnast—she can be moving either up or down, or be stationary.</para>
+      </problem></exercise>
+        
+      <exercise id="fs-id2666528" type="problem-exercises"><problem id="fs-id2666529">      
+        <para id="import-auto-id2655566">(a) Calculate the tension in a vertical strand of spider web if a spider of mass <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>00</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 "." "00" times "10" rSup { size 8{ - 5} } " kg"} {}</m:annotation></m:semantics></m:math> hangs motionless on it. (b) Calculate the tension in a horizontal strand of spider web if the same spider sits motionless in the middle of it much like the tightrope walker in <link target-id="import-auto-id2091042"/>. The strand sags at an angle of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>12º</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"12"°} {}</m:annotation></m:semantics></m:math> below the horizontal. Compare this with the tension in the vertical strand (find their ratio).</para></problem>
+<solution id="fs-id2421761">
+      <para id="import-auto-id2722758">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>84</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>-4</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> N</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "84" times "10" rSup { size 8{4} } " N"} {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id2720064">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>89</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>–3</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> N</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "89" times "10" rSup { size 8{"–3"} } " N"} {}</m:annotation></m:semantics></m:math> . This is 2.41 times the tension in the vertical strand.</para></solution>
+      </exercise>
+        
+      
+      <exercise id="fs-id1914521" type="problem-exercises"><problem id="fs-id1914522">      
+        <para id="import-auto-id1687346">Suppose a 60.0-kg gymnast climbs a rope. (a) What is the tension in the rope if he climbs at a constant speed? (b) What is the tension in the rope if he accelerates upward at a rate of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>50 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "50 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>?</para>
+      </problem></exercise>
+        
+      <exercise id="fs-id2372303" type="problem-exercises"><problem id="fs-id1919325">    
+        <para id="import-auto-id1772046">Consider the baby being weighed in <link target-id="import-auto-id2140140"/>. (a) What is the mass of the child and basket if a scale reading of 55 N is observed? (b) What is the tension <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>T</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math><sub/> in the cord attaching the baby to the scale? (c) What is the tension <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>T</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> in the cord attaching the scale to the ceiling, if the scale has a mass of 0.500 kg? (d) Draw a sketch of the situation indicating the system of interest used to solve each part. The masses of the cords are negligible.</para></problem>
+
+      </exercise><figure id="import-auto-id2140140"><media id="import-auto-id2140141" alt="A vertical spring scale measuring the weight of a baby is shown. The scale is hung from the ceiling by a cord. The weight W of the baby is shown by a vector arrow acting downward and tension T sub one acting in the cord is shown by an arrow upward. The tension in the cord T sub two attached to the ceiling is represented by an arrow upward from the spring scale and downward from the ceiling.">
+          <image mime-type="image/jpg" src="../../media/Figure_04_05_14a.jpg" width="200"/>
+        </media>
+        
+      <caption>A baby is weighed using a spring scale.</caption></figure></section>
+</content>
+  <glossary>
+    <definition id="import-auto-id1679828"><term>inertial frame of reference</term><meaning id="fs-id2125767">a coordinate system that is not accelerating; all forces acting in an inertial frame of reference are real forces, as opposed to fictitious forces that are observed due to an accelerating frame of reference</meaning></definition>
+    <definition id="import-auto-id2367244"><term>normal force</term> <meaning id="fs-id2183523">the force that a surface applies to an object to support the weight of the object; acts perpendicular to the surface on which the object rests</meaning></definition>
+    <definition id="import-auto-id2367248"><term>tension</term> <meaning id="fs-id1735808">the pulling force that acts along a medium, especially a stretched flexible connector, such as a rope or cable; when a rope supports the weight of an object, the force on the object due to the rope is called a tension force</meaning></definition>
+  </glossary>
+</document>

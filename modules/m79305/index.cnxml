@@ -1,0 +1,26 @@
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
+
+<title>Introduction to Special Relativity</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m79305</md:content-id>
+  <md:title>Introduction to Special Relativity</md:title>
+  <md:abstract/>
+  <md:uuid>125059c3-a31d-4da4-b011-d934178186cd</md:uuid>
+</metadata>
+
+<content>
+<figure id="fs-id953178" class="splash"><media id="fs-id3083852" alt="Night sky with bright Orion Nebula cluster in the center amongst the group of stars.">
+        <image mime-type="image/png" src="../../media/Figure_29_00_01a_D.jpg"/>
+      </media>
+
+<caption>Special relativity explains why traveling to other star systems, such as these in the Orion Nebula, is unreasonable using our current level of technology. (credit: s58y, Flickr)</caption></figure>
+<para id="fs-id2257634">In this chapter you will be introduced to the theory of special relativity, which was first described by Albert Einstein in the year 1905. The chapter opens with a discussion of Einstein’s postulates that form the basis of special relativity. You will learn about an essential physics framework that is used to describe the observations and measurements made by an observer in what is called the “inertial frame of reference”. Special relativity is a universally accepted theory that defines a relationship between space and time . When the speed of an object approaches the speed of light, Newton’s laws no longer hold, which means that classical (Newtonian) mechanics is not sufficient to define the physical properties of such a system. This is where special relativity comes into play. Many interesting and counterintuitive physical results follow from the theory of special relativity. In this chapter we will explore the concepts of simultaneity, time dilation, and length contraction.</para><para id="fs-id3182331">Further into the chapter you will find information that supports the concepts of relativistic velocity addition, relativistic momentum, and energy. Learning these concepts will help you understand how the mass of an object can appear to be different for different observers and how matter can be converted into energy and then back to matter so that the energy of the system remains conserved.</para><figure id="import-auto-id2633240"><media id="fs-id1959437" alt="Black and white photograph of Albert Einstein.">
+        <image mime-type="image/jpg" src="../../media/Figure_29_00_02a.jpg"/>
+      </media>
+      
+        <caption>Many people think that Albert Einstein (1879–1955) was the greatest physicist of the 20th century. Not only did he develop modern relativity, thus revolutionizing our concept of the universe, he also made fundamental contributions to the foundations of quantum mechanics. (credit: The Library of Congress)</caption></figure><para id="import-auto-id1364116">It is important to note that although classical mechanic, in general, and classical relativity, in particular, are limited, they are extremely good approximations for large, slow-moving objects. Otherwise, we could not use classical physics to launch satellites or build bridges. In the classical limit (objects larger than submicroscopic and moving slower than about 1% of the speed of light), relativistic mechanics becomes the same as classical mechanics. This fact will be noted at appropriate places throughout this chapter.</para>
+    
+
+</content>
+ 
+</document>

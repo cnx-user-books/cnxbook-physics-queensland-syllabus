@@ -1,0 +1,567 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Current</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m68368</md:content-id>
+  <md:title>Current</md:title>
+  <md:abstract><list>
+<item>Define electric current and the ampere.</item>
+<item>Describe the direction of charge flow in conventional current.</item>
+</list></md:abstract>
+  <md:uuid>5291ecbc-58f7-4548-b397-6839e73aada2</md:uuid>
+</metadata>
+
+<content>
+
+  <section id="fs-id3017936">
+    <title>Electric Current</title>
+    <para id="import-auto-id1907197">Electric current is defined to be the rate at which charge flows. A large current, such as that used to start a truck engine, moves a large amount of charge in a small time, whereas a small current, such as that used to operate a hand-held calculator, moves a small amount of charge over a long period of time. In equation form, <term id="import-auto-id2437900">electric current</term> <m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I } {}</m:annotation></m:semantics></m:math> is defined to be</para><equation id="eip-926"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">Q</m:mi></m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow><m:mtext>,</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I =  {  {ΔQ}  over  {Δt} } ","} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id3008166">where <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">Q</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔQ} {}</m:annotation></m:semantics></m:math> is the amount of charge passing through a given area in time <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δt} {}</m:annotation></m:semantics></m:math>. (As in previous chapters, initial time is often taken to be zero, in which case <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi><m:mo stretchy="false">=</m:mo><m:mi>t</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δt=t} {}</m:annotation></m:semantics></m:math>.) (See <link target-id="import-auto-id1986250"/>.) The SI unit for current is the <term id="import-auto-id2058220">ampere</term> (A), named for the French physicist André-Marie Ampère (1775–1836). Since <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">Q</m:mi><m:mo stretchy="false">/</m:mo><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I = ΔQ/Δt} {}</m:annotation></m:semantics></m:math>, we see that an ampere is one coulomb per second:</para><equation id="eip-108"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mtext>1 A </m:mtext>
+                  <m:mo stretchy="false">=</m:mo>
+                  <m:mtext> 1 C/s</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{"1 A "=" 1 C/s"} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id2670391">Not only are fuses and circuit breakers rated in amperes (or amps), so are many electrical appliances.</para>
+  
+    
+    <figure id="import-auto-id1986250"><media id="import-auto-id1595901" alt="Charges are shown as small spheres moving through a section of a conducting wire. The direction of movement of charge is indicated by arrows along the length of the conductor toward the right. The cross-sectional area of the wire is labeled as A. The current is equal to the flow of charge.">
+        <image mime-type="image/jpg" src="../../media/Figure_21_01_01a.jpg" width="225"/>
+      </media>
+      
+    <caption>The rate of flow of charge is current. An ampere is the flow of one coulomb through an area in one second.</caption></figure><example id="fs-id1957989">
+    <title>Calculating Currents: Current in a Truck Battery and a Handheld Calculator</title>
+    <para id="import-auto-id3008737">(a) What is the current involved when a truck battery sets in motion 720 C of charge in 4.00 s while starting an engine? (b) How long does it take 1.00 C of charge to flow through a handheld calculator if a 0.300-mA current is flowing?</para>
+   
+      <para id="import-auto-id1236514">
+      <emphasis>Strategy</emphasis>
+    </para>
+    <para id="import-auto-id3017331">We can use the definition of current in the equation <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">Q</m:mi><m:mo stretchy="false">/</m:mo><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I = ΔQ/Δt} {}</m:annotation></m:semantics></m:math> to find the current in part (a), since charge and time are given. In part (b), we rearrange the definition of current and use the given values of charge and current to find the time required.</para><para id="import-auto-id1872852">
+      <emphasis>Solution for (a)</emphasis>
+    </para>
+    <para id="import-auto-id1545999">Entering the given values for charge and time into the definition of current gives</para>
+    
+  
+      <equation id="eip-340"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mtable columnalign="left">
+                <m:mtr><m:mtd>                              <m:mi>I</m:mi></m:mtd>
+<m:mtd>                              <m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd>
+                  <m:mrow>
+                    
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+
+                              <m:mfrac><m:mrow>
+                                <m:mn>Δ</m:mn><m:mi fontstyle="italic">Q</m:mi></m:mrow>
+                                <m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow>
+                              </m:mfrac>
+                            </m:mrow>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:mtext>720 C</m:mtext>
+                              <m:mrow>
+                                <m:mtext>4.00 s</m:mtext>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mtext> 180 C/s</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                    
+                    <m:mrow/>
+                  </m:mrow></m:mtd>
+                </m:mtr>
+                <m:mtr><m:mtd/>
+<m:mtd>                            <m:mo stretchy="false">=</m:mo></m:mtd>
+             <m:mtd>     <m:mrow>
+                    
+                      <m:mrow>
+                        <m:mrow>
+
+                            <m:mtext> 180 A.</m:mtext>
+                        </m:mrow>
+                      </m:mrow>
+                  </m:mrow></m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:mrow>
+          </m:mrow>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id3127616">
+      <emphasis>Discussion for (a)</emphasis>
+    </para>
+    <para id="import-auto-id1486290">This large value for current illustrates the fact that a large charge is moved in a small amount of time. The currents in these “starter motors” are fairly large because large frictional forces need to be overcome when setting something in motion.</para>
+ 
+      <para id="import-auto-id2056643">
+      <emphasis>Solution for (b)</emphasis>
+    </para>
+    <para id="import-auto-id3119110">Solving the relationship <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">Q</m:mi><m:mo stretchy="false">/</m:mo><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I = ΔQ/Δt} {}</m:annotation></m:semantics></m:math> for time <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Δt} {}</m:annotation></m:semantics></m:math>, and entering the known values for charge and current gives</para><equation id="eip-819"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mtable columnalign="left">
+                <m:mtr><m:mtd><m:mn>Δ</m:mn>
+                            <m:mi fontstyle="italic">t</m:mi></m:mtd>
+<m:mtd>                            <m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd>
+                  <m:mrow>
+                    
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+
+                            <m:mfrac><m:mrow><m:mn>Δ</m:mn>
+                              <m:mi fontstyle="italic">Q</m:mi></m:mrow>
+                              <m:mi>I</m:mi>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>1.00 C</m:mtext>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>0.300</m:mn>
+                              <m:mi>×</m:mi>
+
+<m:msup>
+                                <m:mtext> 10</m:mtext>
+                        
+<m:mrow>
+                                      <m:mo stretchy="false">-</m:mo>
+                                      <m:mn>3</m:mn>
+        </m:mrow>                        
+                              </m:msup><m:mspace width="0.25em"/>
+                              <m:mtext> C/s</m:mtext>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                    
+                  </m:mrow></m:mtd>
+                </m:mtr>
+                <m:mtr><m:mtd/>
+<m:mtd><m:mo>=</m:mo></m:mtd>
+<m:mtd>
+                  <m:mrow>
+                    <m:mrow/>
+                    <m:mtext> 3.33 </m:mtext>
+                    <m:mi>×</m:mi>
+                    <m:msup>
+                      <m:mtext> 10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mn>3</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup><m:mspace width="0.25em"/>
+                    <m:mtext> s.</m:mtext>
+                  </m:mrow></m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:mrow>
+          </m:mrow>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id3154628">
+      <emphasis>Discussion for (b)</emphasis>
+    </para>
+    <para id="import-auto-id2979487">This time is slightly less than an hour. The small current used by the hand-held calculator takes a much longer time to move a smaller charge than the large current of the truck starter. So why can we operate our calculators only seconds after turning them on? It’s because calculators require very little energy. Such small current and energy demands allow handheld calculators to operate from solar cells or to get many hours of use out of small batteries. Remember, calculators do not have moving parts in the same way that a truck engine has with cylinders and pistons, so the technology requires smaller currents.</para></example>
+    <para id="import-auto-id2435584"><link target-id="import-auto-id2931325"/> shows a simple circuit and the standard schematic representation of a battery, conducting path, and load (a resistor). Schematics are very useful in visualizing the main features of a circuit. A single schematic can represent a wide variety of situations. The schematic in <link target-id="import-auto-id2931325"/> (b), for example, can represent anything from a truck battery connected to a headlight lighting the street in front of the truck to a small battery connected to a penlight lighting a keyhole in a door. Such schematics are useful because the analysis is the same for a wide variety of situations. We need to understand a few schematics to apply the concepts and analysis to many more situations.</para><figure id="import-auto-id2931325"><media id="import-auto-id2611378" alt="Part a shows a bulb glowing when its terminals are connected to a battery through a wire. The voltage of the battery is labeled as V. The current through the bulb is represented as I, and the current direction is shown using arrows emerging from the positive terminal of the battery, passing through the bulb, and entering the negative terminal of the battery. Part b shows an electric circuit diagram with a resistance connected across the terminals of a battery of voltage V. The current is shown using arrows as emerging from the positive terminal of the battery, passing through the resistance, and entering the negative terminal of the battery.">
+        <image mime-type="image/jpg" src="../../media/Figure_21_01_02a.jpg" width="200"/>
+      </media>
+      
+    <caption>(a) A simple electric circuit. A closed path for current to flow through is supplied by conducting wires connecting a load to the terminals of a battery. (b) In this schematic, the battery is represented by the two parallel red lines, conducting wires are shown as straight lines, and the zigzag represents the load. The schematic represents a wide variety of similar circuits.</caption></figure><para id="import-auto-id1207319">Note that the direction of current flow in <link target-id="import-auto-id2931325"/> is from positive to negative. <emphasis effect="italics"><emphasis effect="italics">The direction of conventional current is the direction that positive charge would flow</emphasis></emphasis>. Depending on the situation, positive charges, negative charges, or both may move. In metal wires, for example, current is carried by electrons—that is, negative charges move. In ionic solutions, such as salt water, both positive and negative charges move. This is also true in nerve cells. A Van de Graaff generator used for nuclear research can produce a current of pure positive charges, such as protons. <link target-id="import-auto-id1575921"/> illustrates the movement of charged particles that compose a current. The fact that conventional current is taken to be in the direction that positive charge would flow can be traced back to American politician and scientist Benjamin Franklin in the 1700s. He named the type of charge associated with electrons negative, long before they were known to carry current in so many situations. Franklin, in fact, was totally unaware of the small-scale structure of electricity.</para>
+    <para id="import-auto-id2679164">It is important to realize that there is an electric field in conductors responsible for producing the current, as illustrated in <link target-id="import-auto-id1575921"/>. Unlike static electricity, where a conductor in equilibrium cannot have an electric field in it, conductors carrying a current have an electric field and are not in static equilibrium. An electric field is needed to supply energy to move the charges.</para>
+    
+    <note id="fs-id1962891"><label/><title>Making Connections: Take-Home Investigation—Electric Current Illustration</title>
+    
+    <para id="import-auto-id2639557">Find a straw and little peas that can move freely in the straw. Place the straw flat on a table and fill the straw with peas. When you pop one pea in at one end, a different pea should pop out the other end. This demonstration is an analogy for an electric current. Identify what compares to the electrons and what compares to the supply of energy. What other analogies can you find for an electric current?</para><para id="import-auto-id3177206">Note that the flow of peas is based on the peas physically bumping into each other; electrons flow due to mutually repulsive electrostatic forces.</para></note>
+   
+    
+    
+    <figure id="import-auto-id1575921"><media id="import-auto-id2993051" alt="In part a, positive charges move toward the right through a conducting wire. The direction of movement of charge is indicated by arrows along the length of the wire. The area of a cross section of the wire is labeled as A. The direction of the electric field E is toward the right, in the same direction as movement of positive charge. The current direction is also toward the right, shown by an arrow. In part b, negative charges move toward the left through a conducting wire. The direction of movement of charge is indicated by arrows along the length of the wire. The area of a cross section of the wire is labeled as A. The direction of the electric field E is toward the right, opposite the direction of movement of negative charge. The current direction is also toward the right, shown by an arrow.">
+       <image mime-type="image/jpg" src="../../media/Figure_21_01_03a.jpg" width="225"/>
+      </media>
+      
+    <caption>Current <m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I } {}</m:annotation></m:semantics></m:math> is the rate at which charge moves through an area <m:math>
+ <m:semantics>
+  <m:mi>A</m:mi> 
+ </m:semantics>
+</m:math>, such as the cross-section of a wire. Conventional current is defined to move in the direction of the electric field. (a) Positive charges move in the direction of the electric field and the same direction as conventional current. (b) Negative charges move in the direction opposite to the electric field. Conventional current is in the direction opposite to the movement of negative charge. The flow of electrons is sometimes referred to as electronic flow.
+</caption></figure><example id="fs-id3034495"><title>Calculating the Number of Electrons that Move through a Calculator</title><para id="import-auto-id2424114">If the 0.300-mA current through the calculator mentioned in the <link target-id="fs-id1957989"/> example is carried by electrons, how many electrons per second pass through it?</para><para id="import-auto-id3245664">
+      <emphasis>Strategy</emphasis>
+    </para>
+    <para id="import-auto-id2052846">The current calculated in the previous example was defined for the flow of positive charge. For electrons, the magnitude is the same, but the sign is opposite, 
+   <m:math>
+    <m:semantics>
+     <m:mrow>
+       <m:mrow>
+        <m:mrow>
+         <m:mrow>
+          <m:msub>
+           <m:mi>
+I
+           </m:mi>
+               <m:mtext>
+electrons
+               </m:mtext>
+          </m:msub>
+          <m:mo stretchy="false">
+=
+          </m:mo>
+          <m:mrow>
+           <m:mo stretchy="false">
+−
+           </m:mo>
+           <m:mn>
+0.300
+           </m:mn>
+          </m:mrow>
+          <m:mo stretchy="false">
+×
+          </m:mo>
+          <m:msup>
+           <m:mtext>
+10
+           </m:mtext>
+           <m:mrow>
+             <m:mrow>
+              <m:mrow>
+               <m:mrow>
+                <m:mo stretchy="false">
+−3
+                </m:mo>
+               </m:mrow>
+              </m:mrow>
+             </m:mrow><m:mspace width="0.25em"/>
+           </m:mrow>
+          </m:msup>
+         </m:mrow>
+         <m:mtext>
+C/s
+         </m:mtext>
+        </m:mrow>
+       </m:mrow>
+     </m:mrow>
+    </m:semantics>
+   </m:math>  .Since each electron <m:math>
+    <m:semantics>
+     <m:mrow>
+      <m:mrow>
+       <m:mo stretchy="false">
+(
+       </m:mo>
+       <m:mrow>
+         <m:mrow>
+          <m:mrow>
+           <m:msup>
+            <m:mi>
+e
+            </m:mi>
+            <m:mrow>
+              <m:mrow>
+               <m:mrow>
+                <m:mrow>
+                 <m:mo stretchy="false">
+−
+                 </m:mo>
+                 <m:mrow/>
+                </m:mrow>
+               </m:mrow>
+              </m:mrow>
+            </m:mrow>
+           </m:msup>
+          </m:mrow>
+         </m:mrow>
+       </m:mrow>
+       <m:mo stretchy="false">
+)
+       </m:mo>
+      </m:mrow>
+     </m:mrow>
+    </m:semantics>
+   </m:math> has a charge of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>–1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>60</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>19</m:mtext></m:mrow></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>, we can convert the current in coulombs per second to electrons per second.</para><para id="import-auto-id2688410">
+      <emphasis>Solution</emphasis>
+    </para>
+    <para id="import-auto-id2016267">Starting with the definition of current, we have</para>
+    
+    <equation id="eip-414"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>I</m:mi><m:mtext>electrons</m:mtext></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>Δ</m:mtext><m:msub><m:mi fontstyle="italic">Q</m:mi><m:mtext>electrons</m:mtext></m:msub></m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>–0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>300 </m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext> 10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>3</m:mn></m:mrow></m:mrow></m:msup><m:mspace width="0.25em"/></m:mrow><m:mtext> C</m:mtext></m:mrow><m:mtext>s</m:mtext></m:mfrac></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I =  {  {ΔQ}  over  {Δt} }  =  {  {0 "." "300 " times " 10" rSup { size 8{ - 3} } " C"}  over  {"s"} } "."} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id3064541">We divide this by the charge per electron, so that</para><equation id="eip-199"><m:math>
+        <m:semantics>
+          <m:mrow>
+            <m:mrow>
+              <m:mtable columnalign="left">
+                <m:mtr><m:mtd>
+                            <m:mfrac>
+                             <m:mrow>
+                              <m:msup>
+                               <m:mi>e</m:mi>
+                               <m:mtext>–</m:mtext>
+                              </m:msup>
+                             </m:mrow>
+                             <m:mtext>s</m:mtext>
+                            </m:mfrac></m:mtd>
+<m:mtd>                            <m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd>
+                  <m:mrow>
+                    
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mrow>
+
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mn>–0</m:mn>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>300 </m:mtext>
+                                <m:mi>×</m:mi>
+                                <m:msup>
+                                  <m:mtext> 10</m:mtext>
+                                  
+                                    <m:mrow>
+                                      <m:mrow>
+                                        <m:mo stretchy="false">–</m:mo>
+                                        <m:mn>3</m:mn>
+                                      </m:mrow>
+                                    </m:mrow>
+                                  
+                                </m:msup><m:mspace width="0.25em"/>
+                                <m:mtext> C</m:mtext>
+                              </m:mrow>
+                              <m:mtext>s</m:mtext>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mi>×</m:mi>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>1</m:mtext><m:mspace width="0.25em"/>
+                              <m:msup>
+                               <m:mi>e</m:mi>
+                               <m:mtext>–</m:mtext>
+                              </m:msup>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>–1</m:mn>
+                              <m:mtext>.60 </m:mtext>
+                              <m:mi>×</m:mi>
+                              <m:msup>
+                                <m:mtext> 10</m:mtext>
+                                
+                                  <m:mrow>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mtext>19</m:mtext>
+                                    </m:mrow>
+                                  </m:mrow>
+                                
+                              </m:msup><m:mspace width="0.25em"/>
+                              <m:mtext> C</m:mtext>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                  </m:mrow></m:mtd>
+                </m:mtr>
+                <m:mtr><m:mtd/>
+<m:mtd>   <m:mo stretchy="false">=</m:mo></m:mtd>
+<m:mtd>
+                  <m:mrow>
+                    <m:mtext>1.88 </m:mtext>
+                    <m:mi>×</m:mi>
+                    <m:msup>
+                      <m:mtext> 10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mtext>15</m:mtext>
+                        </m:mrow>
+                      
+                    </m:msup><m:mspace width="0.25em"/>
+                    <m:mfrac>
+                     <m:mrow>
+                      <m:msup>
+                       <m:mi>e</m:mi>
+                       <m:mtext>–</m:mtext>
+                      </m:msup>
+                     </m:mrow>
+                     <m:mtext>s</m:mtext>
+                    </m:mfrac>
+                    <m:mtext>.</m:mtext>
+                    <m:mrow/>
+                  </m:mrow></m:mtd>
+                </m:mtr>
+              </m:mtable>
+            </m:mrow>
+          </m:mrow>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id765484">
+      <emphasis>Discussion</emphasis>
+    </para>
+    <para id="import-auto-id1998491">There are so many charged particles moving, even in small currents, that individual charges are not noticed, just as individual water molecules are not noticed in water flow. Even more amazing is that they do not always keep moving forward like soldiers in a parade. Rather they are like a crowd of people with movement in different directions but a general trend to move forward. There are lots of collisions with atoms in the metal wire and, of course, with other electrons.</para>
+    </example></section>
+  
+  <section id="fs-id3048518">
+    <title>Velocity of Charges in a Conductor</title><para id="import-auto-id2673389">Electrical signals are known to move very rapidly. Telephone conversations carried by currents in wires cover large distances without noticeable delays. Lights come on as soon as a switch is flicked. Most electrical signals carried by currents travel at speeds on the order of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>8</m:mn></m:mrow></m:msup><m:mspace width="0.25em"/><m:mtext>m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{8} } `"m/s"} {}</m:annotation></m:semantics></m:math>, a significant fraction of the speed of light. Interestingly, the individual charges that make up the current move <emphasis effect="italics"><emphasis effect="italics">much</emphasis></emphasis> more slowly on average, typically drifting at speeds on the order of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>4</m:mn></m:mrow></m:mrow></m:msup><m:mspace width="0.25em"/><m:mtext>m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"10" rSup { size 8{ - 4} } `"m/s"} {}</m:annotation></m:semantics></m:math>. How do we reconcile these two speeds, and what does it tell us about standard conductors?</para><para id="import-auto-id1402961">The high speed of electrical signals results from the fact that the force between charges acts rapidly at a distance. Thus, when a free charge is forced into a wire, as in <link target-id="import-auto-id2670145"/>, the incoming charge pushes other charges ahead of it, which in turn push on charges farther down the line. The density of charge in a system cannot easily be increased, and so the signal is passed on rapidly. The resulting electrical shock wave moves through the system at nearly the speed of light. To be precise, this rapidly moving signal or shock wave is a rapidly propagating change in electric field.</para>
+   
+    
+    <figure id="import-auto-id2670145"><media id="import-auto-id3037223" alt="Negatively charged electrons move through a conducting wire. Two electrons are shown entering the wire from one end, and two electrons are shown leaving the wire at the other end. The direction of movement of charge is indicated by arrows along the length of the wire toward the right. Some electrons are shown inside the wire.">
+        <image mime-type="image/jpg" src="../../media/Figure_21_01_04a.jpg" width="250"/>
+      </media>
+      
+    <caption>When charged particles are forced into this volume of a conductor, an equal number are quickly forced to leave. The repulsion between like charges makes it difficult to increase the number of charges in a volume. Thus, as one charge enters, another leaves almost immediately, carrying the signal rapidly forward.</caption></figure><note id="fs-id2591466"><label/><title>Conduction of Electricity and Heat</title>
+    
+    <para id="import-auto-id2384409">Good electrical conductors are often good heat conductors, too. This is because large numbers of free electrons can carry electrical current and can transport thermal energy.</para>
+    </note><para id="import-auto-id2691415">The free-electron collisions transfer energy to the atoms of the conductor. The electric field does work in moving the electrons through a distance, but that work does not increase the kinetic energy (nor speed, therefore) of the electrons. The work is transferred to the conductor’s atoms, possibly increasing temperature. Thus a continuous power input is required to keep a current flowing. An exception, of course, is found in superconductors, for reasons we shall explore in a later chapter. Superconductors can have a steady current without a continual supply of energy—a great energy savings. In contrast, the supply of energy can be useful, such as in a lightbulb filament. The supply of energy is necessary to increase the temperature of the tungsten filament, so that the filament glows.</para></section> 
+  
+    <section id="fs-id2206674" class="section-summary"><title>Section Summary</title><list id="fs-id3080846"><item id="import-auto-id2210060">Electric current <m:math><m:semantics><m:mrow><m:mrow><m:mi>I</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{I } {}</m:annotation></m:semantics></m:math> is the rate at which charge flows, given by
+
+<equation id="eip-id2583201"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>I</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">Q</m:mi></m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow></m:mrow>
+<m:mtext>,</m:mtext></m:mrow></m:semantics></m:math></equation>
+
+    where <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">Q</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> is the amount of charge passing through an area in time <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>.</item>
+    <item id="import-auto-id3101625">The direction of conventional current is taken as the direction in which positive charge moves.</item>
+    <item id="import-auto-id2053601">The SI unit for current is the ampere (A), where <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>1 A </m:mtext><m:mo stretchy="false">=</m:mo><m:mtext> 1 C/s.</m:mtext></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1" A "=" 1 C/s."} {}</m:annotation></m:semantics></m:math></item>
+    <item id="import-auto-id2583564">Current is the flow of free charges, such as electrons and ions.</item>
+
+
+</list></section><section id="fs-id2022524" class="conceptual-questions" type="conceptual-questions">
+      <title>Conceptual Questions</title>
+    <exercise id="fs-id2392409" type="conceptual-questions"><problem id="fs-id3007038">
+    <para id="import-auto-id3230667">Can a wire carry a current and still be neutral—that is, have a total charge of zero? Explain.</para>
+    </problem></exercise>
+      
+    <exercise id="fs-id2600992" type="conceptual-questions"><problem id="fs-id3256626">
+    <para id="import-auto-id1446936">Car batteries are rated in ampere-hours (<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>A</m:mtext><m:mo stretchy="false">⋅</m:mo><m:mtext>h</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{A cdot h} {}</m:annotation></m:semantics></m:math>). To what physical quantity do ampere-hours correspond (voltage, charge, . . .), and what relationship do ampere-hours have to energy content?</para></problem></exercise>
+      
+    <exercise id="fs-id1019372" type="conceptual-questions"><problem id="fs-id1859472">
+    <para id="import-auto-id3397911">Why are two conducting paths from a voltage source to an electrical device needed to operate the device?</para>
+    </problem></exercise>
+      
+    <exercise id="fs-id2611504" type="conceptual-questions"><problem id="fs-id3400439">
+    <para id="import-auto-id1940581">In cars, one battery terminal is connected to the metal body. How does this allow a single wire to supply current to electrical devices rather than two wires?</para></problem></exercise>
+      
+    <exercise id="fs-id3154476" type="conceptual-questions"><problem id="fs-id3093305">
+    <para id="import-auto-id1413786">Why isn’t a bird sitting on a high-voltage power line electrocuted? Contrast this with the situation in which a large bird hits two wires simultaneously with its wings.</para>
+    </problem></exercise>
+    </section>
+  
+    <section id="fs-id1569125" type="problems-exercises" class="problems-exercises">
+      <title>Problems &amp; Exercises</title>
+    <exercise id="fs-id1599422" type="problems-exercises"><problem id="fs-id2931188">   
+      <para id="import-auto-id3075992">What is the current in milliamperes produced by the solar cells of a pocket calculator through which 4.00 C of charge passes in 4.00 h?</para></problem>
+<solution id="fs-id3043865">
+    <para id="import-auto-id2953730">0.278 mA</para>
+    </solution>
+    </exercise>
+      
+    <exercise id="fs-id2655543" type="problems-exercises"><problem id="fs-id3191787">   
+      <para id="import-auto-id2429685">A total of 600 C of charge passes through a flashlight in 0.500 h. What is the average current?</para>
+    </problem></exercise>
+      
+    <exercise id="fs-id2408383" type="problems-exercises"><problem id="fs-id3076842">   
+      <para id="import-auto-id1842610">What is the current when a typical static charge of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mtext>250</m:mtext><m:mspace width="0.25em"/><m:mi fontstyle="italic">μ</m:mi><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "250" mC} {}</m:annotation></m:semantics></m:math> moves from your finger to a metal doorknob in <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1.00</m:mn><m:mspace width="0.25em"/><m:mi fontstyle="italic">μ</m:mi><m:mtext>s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "00" ms} {}</m:annotation></m:semantics></m:math>?</para></problem>
+<solution id="fs-id2383724">
+    <para id="import-auto-id3109880">0.250 A</para>
+    </solution>
+    </exercise>
+      
+    <exercise id="fs-id744817" type="problems-exercises"><problem id="fs-id2446499">    
+      <para id="import-auto-id1616079">Find the current when 2.00 nC jumps between your comb and hair over a <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>0</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>500 - </m:mtext><m:mspace width="0.25em"/><m:mi fontstyle="italic">μ</m:mi><m:mtext>s</m:mtext></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 "." "500"-μs} {}</m:annotation></m:semantics></m:math> time interval.</para></problem></exercise>
+      
+    <exercise id="fs-id3077567" type="problems-exercises"><problem id="fs-id2677871">    
+      <para id="import-auto-id2683688">A large lightning bolt had a 20,000-A current and moved 30.0 C of charge. What was its duration?</para>
+    </problem>
+<solution id="fs-id2929727">
+    <para id="import-auto-id1993336">1.50ms</para>
+    </solution>
+    </exercise>
+      
+    <exercise id="fs-id3457954" type="problems-exercises"><problem id="fs-id3354053"> 
+      <para id="import-auto-id1916235">The 200-A current through a spark plug moves 0.300 mC of charge. How long does the spark last?</para>
+    </problem></exercise>
+      
+    <exercise id="fs-id2025963" type="problems-exercises"><problem id="fs-id2001136">  
+      <para id="import-auto-id3093611">During open-heart surgery, a defibrillator can be used to bring a patient out of cardiac arrest. The resistance of the path is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mtext>00 Ω</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5"00 " %OMEGA } {}</m:annotation></m:semantics></m:math> and a 10.0-mA current is needed. What voltage should be applied?</para></problem></exercise>
+      
+    <exercise id="fs-id2660448" type="problems-exercises"><problem id="fs-id2957000"> 
+      <para id="import-auto-id2930359">(a) A defibrillator passes 12.0 A of current through the torso of a person for 0.0100 s. How much charge moves? (b) How many electrons pass through the wires connected to the patient?</para></problem>
+<solution id="fs-id1931314">
+    <para id="import-auto-id1419756">(a) 0.120 C</para>
+    <para id="import-auto-id1397785">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:mtext>50</m:mtext><m:mi>×</m:mi><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>17</m:mtext></m:mrow></m:msup><m:mo stretchy="false"> </m:mo>
+<m:mtext> electrons</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 "." "50"´"10" rSup { size 8{"17"} } " electrons"} {}</m:annotation></m:semantics></m:math></para>
+    </solution>
+    </exercise>
+      
+    <exercise id="fs-id3257336" type="problems-exercises"><problem id="fs-id1157233">  
+      <para id="import-auto-id3255858">A clock battery wears out after moving 10,000 C of charge through the clock at a rate of 0.500 mA. (a) How long did the clock run? (b) How many electrons per second flowed?</para>
+    </problem></exercise>
+      
+    <exercise id="fs-id1815315" type="problems-exercises"><problem id="fs-id1449562">    
+      <para id="import-auto-id3449954">Electron guns are used in X-ray tubes. The electrons are accelerated through a relatively large voltage and directed onto a metal target, producing X-rays. (a) How many electrons per second strike the target if the current is 0.500 mA? (b) What charge strikes the target in 0.750 s?</para>
+    </problem></exercise>
+      
+    <exercise id="fs-id1602358" type="problems-exercises"><problem id="fs-id3013088">  
+      <para id="import-auto-id1860058">SPEAR, a storage ring about 72.0 m in diameter at the Stanford Linear Accelerator (closed in 2009), has a 20.0-A circulating beam of electrons that are moving at nearly the speed of light. (See <link target-id="import-auto-id1319847"/>.) How many electrons are in the beam?</para>
+ 
+      
+    <figure id="import-auto-id1319847"><media id="import-auto-id2670325" alt="The circuit shows a doughnut shaped storage ring called SPEAR. The cross sections of ring are marked as A and are represented as dotted circular sections. The diameter of storage ring as measured between diametrically opposite cross sections on both ends is seventy two meters. The current in the ring is given as twenty amps. The direction of current I is shown opposite to the direction of movement of electrons e using arrows.">
+        <image mime-type="image/jpg" src="../../media/Figure_21_01_08a.jpg" width="275"/>
+      </media>
+      
+    <caption>Electrons circulating in the storage ring called SPEAR constitute a 20.0-A current. Because they travel close to the speed of light, each electron completes many orbits in each second.</caption></figure></problem>
+<solution id="fs-id1485047">
+    <para id="import-auto-id3344747"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>9</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>42</m:mtext>
+                  <m:mi>×</m:mi>
+                  <m:msup>
+                    <m:mtext>10</m:mtext>
+                    
+                      <m:mrow>
+                        <m:mtext>13</m:mtext>
+                      </m:mrow>
+                    
+                  </m:msup>
+                          <m:mo stretchy="false"> </m:mo>
+                  <m:mtext> electrons</m:mtext>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{9 "." "42"´"10" rSup { size 8{"13"} } " electrons"} {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </para>
+    </solution>
+    </exercise>
+    </section>
+</content>
+  <glossary>
+    <definition id="import-auto-id1471961"><term>electric current</term> <meaning id="fs-id1596416">the rate at which charge flows, <emphasis effect="italics">I</emphasis> = Δ<emphasis effect="italics">Q</emphasis>/Δ<emphasis effect="italics">t</emphasis></meaning></definition>
+    <definition id="import-auto-id1585907"><term>ampere</term><meaning id="fs-id3158363">(amp) the SI unit for current; 1 A = 1 C/s</meaning></definition>
+  </glossary>
+</document>

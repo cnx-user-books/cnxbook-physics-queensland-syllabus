@@ -1,0 +1,758 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Textbook">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col25418</md:content-id>
+  <md:title>Physics - Queensland  Syllabus</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+  <md:language>en-au</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>8d6d4831-ebba-42ab-a596-fc9090e4ee35</md:uuid>
+<md:slug>physics-queensland-syllabus</md:slug>
+</metadata>
+
+  <col:content>
+    
+      <col:module document="m69950"/>
+        
+      
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Heating processes</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m67612"/>
+        
+      
+    
+    
+      <col:module document="m67620"/>
+        
+      
+    
+    
+      <col:module document="m67626"/>
+        
+      
+    
+    
+      <col:module document="m42226"/>
+        
+      
+    
+    
+      <col:module document="m67621"/>
+        
+      
+    
+    
+      <col:module document="m67624"/>
+        
+      
+    
+    
+      <col:module document="m67625"/>
+        
+      
+    
+    
+      <col:module document="m70767"/>
+        
+      
+    
+    
+      <col:module document="m71628"/>
+        
+      
+    
+    
+      <col:module document="m67627"/>
+        
+      
+    
+    
+      <col:module document="m67628"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Ionising radiation and nuclear reactions</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m67640"/>
+        
+      
+    
+    
+      <col:module document="m67645"/>
+        
+      
+    
+    
+      <col:module document="m67794"/>
+        
+      
+    
+    
+      <col:module document="m68296"/>
+        
+      
+    
+    
+      <col:module document="m68297"/>
+        
+      
+    
+    
+      <col:module document="m68298"/>
+        
+      
+    
+    
+      <col:module document="m68299"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electrical circuits</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68366"/>
+        
+      
+    
+    
+      <col:module document="m68367"/>
+        
+      
+    
+    
+      <col:module document="m68368"/>
+        
+      
+    
+    
+      <col:module document="m68412"/>
+        
+      
+    
+    
+      <col:module document="m68414"/>
+        
+      
+    
+    
+      <col:module document="m68415"/>
+        
+      
+    
+    
+      <col:module document="m68413"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Linear motion and force</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m69946"/>
+        
+      
+    
+    
+      <col:module document="m69897"/>
+        
+      
+    
+    
+      <col:module document="m69894"/>
+        
+      
+    
+    
+      <col:module document="m69898"/>
+        
+      
+    
+    
+      <col:module document="m69899"/>
+        
+      
+    
+    
+      <col:module document="m69901"/>
+        
+      
+    
+    
+      <col:module document="m69902"/>
+        
+      
+    
+    
+      <col:module document="m69903"/>
+        
+      
+    
+    
+      <col:module document="m69904"/>
+        
+      
+    
+    
+      <col:module document="m69949"/>
+        
+      
+    
+    
+      <col:module document="m69907"/>
+        
+      
+    
+    
+      <col:module document="m69908"/>
+        
+      
+    
+    
+      <col:module document="m69911"/>
+        
+      
+    
+    
+      <col:module document="m69909"/>
+        
+      
+    
+    
+      <col:module document="m69912"/>
+        
+      
+    
+    
+      <col:module document="m69921"/>
+        
+      
+    
+    
+      <col:module document="m69922"/>
+        
+      
+    
+    
+      <col:module document="m69924"/>
+        
+      
+    
+    
+      <col:module document="m69926"/>
+        
+      
+    
+    
+      <col:module document="m69927"/>
+        
+      
+    
+    
+      <col:module document="m69928"/>
+        
+      
+    
+    
+      <col:module document="m69920"/>
+        
+      
+    
+    
+      <col:module document="m69913"/>
+        
+      
+    
+    
+      <col:module document="m69914"/>
+        
+      
+    
+    
+      <col:module document="m69915"/>
+        
+      
+    
+    
+      <col:module document="m69918"/>
+        
+      
+    
+    
+      <col:module document="m69916"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Waves</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m69929"/>
+        
+      
+    
+    
+      <col:module document="m69930"/>
+        
+      
+    
+    
+      <col:module document="m69931"/>
+        
+      
+    
+    
+      <col:module document="m69932"/>
+        
+      
+    
+    
+      <col:module document="m69934"/>
+        
+      
+    
+    
+      <col:module document="m69935"/>
+        
+      
+    
+    
+      <col:module document="m69936"/>
+        
+      
+    
+    
+      <col:module document="m69937"/>
+        
+      
+    
+    
+      <col:module document="m69938"/>
+        
+      
+    
+    
+      <col:module document="m69939"/>
+        
+      
+    
+    
+      <col:module document="m69940"/>
+        
+      
+    
+    
+      <col:module document="m69941"/>
+        
+      
+    
+    
+      <col:module document="m69942"/>
+        
+      
+    
+    
+      <col:module document="m69945"/>
+        
+      
+    
+    
+      <col:module document="m69943"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Motion and gravity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m77927"/>
+        
+      
+    
+    
+      <col:module document="m77929"/>
+        
+      
+    
+    
+      <col:module document="m77477"/>
+        
+      
+    
+    
+      <col:module document="m77930"/>
+        
+      
+    
+    
+      <col:module document="m77931"/>
+        
+      
+    
+    
+      <col:module document="m77932"/>
+        
+      
+    
+    
+      <col:module document="m77955"/>
+        
+      
+    
+    
+      <col:module document="m77956"/>
+        
+      
+    
+    
+      <col:module document="m82286"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Electromagnetism</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m80560"/>
+        
+      
+    
+    
+      <col:module document="m80562"/>
+        
+      
+    
+    
+      <col:module document="m80563"/>
+        
+      
+    
+    
+      <col:module document="m80564"/>
+        
+      
+    
+    
+      <col:module document="m81261"/>
+        
+      
+    
+    
+      <col:module document="m81643"/>
+        
+      
+    
+    
+      <col:module document="m81646"/>
+        
+      
+    
+    
+      <col:module document="m81648"/>
+        
+      
+    
+    
+      <col:module document="m81649"/>
+        
+      
+    
+    
+      <col:module document="m81650"/>
+        
+      
+    
+    
+      <col:module document="m81652"/>
+        
+      
+    
+    
+      <col:module document="m81657"/>
+        
+      
+    
+    
+      <col:module document="m81653"/>
+        
+      
+    
+    
+      <col:module document="m81658"/>
+        
+      
+    
+    
+      <col:module document="m81663"/>
+        
+      
+    
+    
+      <col:module document="m81661"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Special relativity</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m79305"/>
+        
+      
+    
+    
+      <col:module document="m79306"/>
+        
+      
+    
+    
+      <col:module document="m79307"/>
+        
+      
+    
+    
+      <col:module document="m79308"/>
+        
+      
+    
+    
+      <col:module document="m79309"/>
+        
+      
+    
+    
+      <col:module document="m79310"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Quantum theory</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m79311"/>
+        
+      
+    
+    
+      <col:module document="m79312"/>
+        
+      
+    
+    
+      <col:module document="m81732"/>
+        
+      
+    
+    
+      <col:module document="m79314"/>
+        
+      
+    
+    
+      <col:module document="m79313"/>
+        
+      
+    
+    
+      <col:module document="m79315"/>
+        
+      
+    
+    
+      <col:module document="m79316"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>The Standard Model</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m81642"/>
+        
+      
+    
+    
+      <col:module document="m81664"/>
+        
+      
+    
+    
+      <col:module document="m81670"/>
+        
+      
+    
+    
+      <col:module document="m81666"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Physics Toolbox</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m68290"/>
+        
+      
+    
+    
+      <col:module document="m68291"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      <col:module document="m69971"/>
+        
+      
+    
+    
+      <col:module document="m69973"/>
+        
+      
+    
+    
+      <col:module document="m69974"/>
+        
+      
+    
+    
+      <col:module document="m69975"/>
+        
+      
+    
+  </col:content>
+</col:collection>
