@@ -290,9 +290,8 @@
     <para id="import-auto-id1169738146480">(a)  <m:math>
  <m:semantics>
   <m:mrow>
-   <m:msup>
-    <m:mtext>18.5</m:mtext>
-   </m:msup><m:mspace width="0.25em"/>
+   <m:mtext>18.5</m:mtext>
+   <m:mspace width="0.25em"/>
    <m:mtext>kJ</m:mtext>
   </m:mrow>
  </m:semantics>

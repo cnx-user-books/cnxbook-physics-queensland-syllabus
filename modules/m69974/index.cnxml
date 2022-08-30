@@ -1727,12 +1727,7 @@
                   <m:annotation encoding="StarMath 5.0"> size 12{6 "." "376" times "10" rSup { size 8{6} } `m} {}</m:annotation>
                 </m:semantics>
               </m:math>
-              <m:math display="block">
-                <m:semantics>
-                  <m:mrow/>
-                  <m:annotation encoding="StarMath 5.0">{}</m:annotation>
-                </m:semantics>
-              </m:math>
+              
             </entry>
           </row>
           <row>

@@ -6132,17 +6132,16 @@ Joules/psi meson
           <m:mrow>
             <m:mrow>
               <m:mrow>
-                 <m:msup>
+                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mrow>
-                    <m:mi>Z</m:mi>
-                  </m:mrow>
-<m:msub>
                   <m:mrow>
                     <m:mi>A</m:mi>
                   </m:mrow>
-               </m:msub>
-</m:msup>
+               
+<m:mrow>
+                    <m:mi>Z</m:mi>
+                  </m:mrow>
+</m:mmultiscripts>
                 <m:msub>
                   <m:mi>X</m:mi>
                   <m:mrow>

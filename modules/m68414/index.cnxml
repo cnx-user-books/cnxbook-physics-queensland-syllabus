@@ -687,7 +687,7 @@
                 <m:mi>R</m:mi>
                 <m:mmultiscripts>
                   <m:mtext/>
-                  <m:mprescripts/>
+                  <m:none/><m:none/><m:mprescripts/>
                   <m:mrow>
                     <m:mtext>p</m:mtext>
                   </m:mrow>
@@ -932,7 +932,7 @@
       <para id="import-auto-id1352159">Show that if two resistors <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math> are combined and one is much greater than the other (<m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub><m:mtext>&gt;&gt;</m:mtext><m:msub><m:mi>R</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{1} } "&gt;&gt;"R rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>): (a) Their series resistance is very nearly equal to the greater resistance <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{1} } } {}</m:annotation></m:semantics></m:math>. (b) Their parallel resistance is very nearly equal to smaller resistance <m:math><m:semantics><m:mrow><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</para>
     </problem>
 <solution id="fs-id3181635">
-    <para id="import-auto-id3018314">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mrow><m:mrow><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mtext>s</m:mtext></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>R</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow></m:mtr><m:mtr><m:mrow><m:mo stretchy="false">⇒</m:mo><m:msub><m:mi>R</m:mi><m:mrow><m:mtext>s</m:mtext></m:mrow></m:msub><m:mspace width="0.25em"/><m:mi>≈</m:mi><m:mspace width="0.25em"/><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub><m:mfenced open="(" close=")"><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub><m:mtext>&gt;&gt;</m:mtext><m:msub><m:mi>R</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:mfenced><m:mrow/></m:mrow></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
+    <para id="import-auto-id3018314">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mtable><m:mtr><m:mtd><m:mrow><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mtext>s</m:mtext></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>R</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:mrow></m:mrow><m:mrow/></m:mtd></m:mtr><m:mtr><m:mtd><m:mo stretchy="false">⇒</m:mo><m:msub><m:mi>R</m:mi><m:mrow><m:mtext>s</m:mtext></m:mrow></m:msub><m:mspace width="0.25em"/><m:mi>≈</m:mi><m:mspace width="0.25em"/><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub><m:mfenced open="(" close=")"><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub><m:mtext>&gt;&gt;</m:mtext><m:msub><m:mi>R</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:mfenced><m:mrow/></m:mtd></m:mtr></m:mtable><m:mrow/></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0">alignl { stack {
  size 12{R rSub { size 8{s} } =R rSub { size 8{1} } +R rSub { size 8{2} } }  {} # 
  drarrow R rSub { size 8{s} } »R rSub { size 8{1} }  left (R rSub { size 8{1} } "&gt;&gt;"R rSub { size 8{2} }  right ) {} 
 } } {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id2449704">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>R</m:mi><m:mrow><m:mn>p</m:mn></m:mrow></m:msub></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>R</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mfrac></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>R</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow><m:mrow><m:msub><m:mi>R</m:mi><m:mrow><m:mn>1</m:mn></m:mrow></m:msub><m:msub><m:mi>R</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {R rSub { size 8{p} } } } = {  {1}  over  {R rSub { size 8{1} } } } + {  {1}  over  {R rSub { size 8{2} } } } = {  {R rSub { size 8{1} } +R rSub { size 8{2} } }  over  {R rSub { size 8{1} } R rSub { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>,</para><para id="import-auto-id2617240">so that</para>
@@ -942,7 +942,7 @@
             <m:mrow>
               <m:mtable>
                 <m:mtr>
-                  <m:mrow>
+                  <m:mtd>
                     
                       <m:mrow>
                         <m:mrow>
@@ -1058,7 +1058,7 @@
                     </m:mfenced>
                     <m:mtext>.</m:mtext>
                     <m:mrow/>
-                  </m:mrow>
+                  </m:mtd>
                 </m:mtr>
               </m:mtable>
               <m:mrow/>

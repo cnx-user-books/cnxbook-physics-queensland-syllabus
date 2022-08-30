@@ -47,10 +47,9 @@
               <m:mrow>
                     <m:mi>v</m:mi>
                     <m:mo stretchy="false">−</m:mo>
-                    <m:msub>
-                      <m:mi>u</m:mi>
+                    <m:mi>u</m:mi>
                       
-                    </m:msub>
+                    
               </m:mrow></m:mtd>
             </m:mtr>
           </m:mtable>
@@ -656,7 +655,7 @@
           <m:annotation encoding="StarMath 5.0"> size 12{t= {  {v - v rSub { size 8{0} } }  over  {a} }  "." } {}</m:annotation>
         </m:semantics>
       </m:math>
-    </equation><para id="import-auto-id2169890">Substituting this and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">-</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>u</m:mi><m:mrow/></m:msub><m:mo stretchy="false">+</m:mo><m:mi>v</m:mi></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {v}}= {  {v rSub { size 8{0} } +v}  over  {2} } } {}</m:annotation></m:semantics></m:math> into <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>s</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>s</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow></m:mrow><m:mi>t</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=x rSub { size 8{0} } + { bar  {v}}t} {}</m:annotation></m:semantics></m:math>, we get</para><equation id="import-auto-id1659227"><m:math><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:msubsup><m:mi>u</m:mi><m:mrow/><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>a</m:mi><m:mi>s</m:mi><m:mspace width="0.25em"/><m:mo>(</m:mo><m:mtext>constant</m:mtext><m:mspace width=".25 em"/><m:mi>a</m:mi><m:mo>)</m:mo><m:mtext>.</m:mtext></m:math>
+    </equation><para id="import-auto-id2169890">Substituting this and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">-</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>u</m:mi><m:mrow/></m:msub><m:mo stretchy="false">+</m:mo><m:mi>v</m:mi></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {v}}= {  {v rSub { size 8{0} } +v}  over  {2} } } {}</m:annotation></m:semantics></m:math> into <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>s</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:msub><m:mi>s</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">+</m:mo><m:mover accent="true"><m:mi>v</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow></m:mrow><m:mi>t</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{x=x rSub { size 8{0} } + { bar  {v}}t} {}</m:annotation></m:semantics></m:math>, we get</para><equation id="import-auto-id1659227"><m:math><m:msup><m:mi>v</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo><m:msubsup><m:mi>u</m:mi><m:mrow/><m:mn>2</m:mn></m:msubsup><m:mo>+</m:mo><m:mn>2</m:mn><m:mi>a</m:mi><m:mi>s</m:mi><m:mspace width="0.25em"/><m:mo>(</m:mo><m:mtext>constant</m:mtext><m:mspace width=".25em"/><m:mi>a</m:mi><m:mo>)</m:mo><m:mtext>.</m:mtext></m:math>
     </equation></note><example id="fs-id1164906443776">
     <title>Calculating Final Velocity: Dragsters</title>
     <para id="import-auto-id2300243">Calculate the final velocity of the dragster in <link target-id="fs-id1164906457202"/> without using information about time.</para><para id="import-auto-id2300246">
@@ -1141,7 +1140,7 @@
                         </m:mrow>
                         <m:mmultiscripts>
                           <m:mtext/>
-                          <m:mprescripts/>
+                          <m:none/><m:none/><m:mprescripts/>
                           <m:mrow>
                             
                           </m:mrow>

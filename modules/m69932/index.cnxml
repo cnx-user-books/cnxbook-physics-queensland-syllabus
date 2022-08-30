@@ -493,12 +493,11 @@ size 12{ { {I}} sup { ' }=1 "." "40" times "10" rSup { size 8{5} } `"W/m" rSup {
 
               <m:mrow>
                 <m:mrow>
-                  <m:msup>
-                    <m:mi>I</m:mi>
+                  <m:mi>I</m:mi>
 
 
 
-                  </m:msup>
+                  
                   <m:mo stretchy="false">∝</m:mo>
                   <m:msup>
                     <m:mi>X</m:mi>
